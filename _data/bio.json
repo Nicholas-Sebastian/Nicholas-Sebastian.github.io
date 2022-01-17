@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Nicholas Sebastian",
+    "label": "Shidler Student",
+    "picture": "https://techfolios.github.io/template/images/me.jpg",
+    "email": "nfs37@hawaii.edu",
+    "phone": "",
+    "website": "https://Nicholas-Sebastian.github.io",
+    "summary": "I am currently a Shidler Student planning to major in Business MIS. This is my 2nd year in Shidler and plan to graduate Spring 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Nicholas-Sebastian",
+        "url": "http://github.com/Nicholas-Sebastian"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Nicholas Sebastian",
+        "url": "http://linkedin.com/in/nicholas-sebastian-709109214"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Analysis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Web-Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Gaming",
       "keywords": [
       ]
     }
@@ -61,12 +49,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript",        
       ]
     },
     {
