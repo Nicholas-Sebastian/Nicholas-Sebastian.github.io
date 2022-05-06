@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: Blog
+type: essay
 title: Checkpoint Assignment #3
 date: 2022-05-05
 labels:
