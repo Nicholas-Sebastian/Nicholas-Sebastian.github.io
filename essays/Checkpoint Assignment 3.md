@@ -8,7 +8,7 @@ labels:
   - Blog
 ---
 
-Screen Cast: 
+Screen Cast: https://youtu.be/Byam4AgNLvw
 
 Show what each page will look like. The pages do not have to be “functional” but the design should clear. 
 - (PPT Screencast)
